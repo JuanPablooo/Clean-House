@@ -1,0 +1,9 @@
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/JuanPablooo/apiCleanHouse.git
+[submodule "aplicacao-web"]
+	path = aplicacao-web
+	url = https://github.com/JuanPablooo/webCleanHouse.git
+[submodule "aplicativo-mobile"]
+	path = aplicativo-mobile
+	url = https://github.com/JuanPablooo/clean_house.git
